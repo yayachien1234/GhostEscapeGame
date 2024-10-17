@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\obj\Debug\net6.0\practice2-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\obj\Debug\net6.0\practice2-2.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\obj\Debug\net6.0\practice2-2.AssemblyInfo.cs
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\obj\Debug\net6.0\practice2-2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\bin\Debug\net6.0\practice2-2.exe
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\bin\Debug\net6.0\practice2-2.deps.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\bin\Debug\net6.0\practice2-2.runtimeconfig.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\bin\Debug\net6.0\practice2-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\bin\Debug\net6.0\practice2-2.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\obj\Debug\net6.0\practice2-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\obj\Debug\net6.0\refint\practice2-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\obj\Debug\net6.0\practice2-2.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\obj\Debug\net6.0\practice2-2.genruntimeconfig.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\practice2-1\practice2-2\practice2-2\obj\Debug\net6.0\ref\practice2-2.dll
